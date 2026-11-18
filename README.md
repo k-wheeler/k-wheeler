@@ -12,7 +12,7 @@ I combine remote sensing and geospatial analysis with statistical, mechanistic, 
 - **NOAA Climate and Global Change Postdoctoral Fellow**, MIT. Project: *The connections between leaf phenology and mycorrhizae in a changing world*
 - **B.S., Environmental Science**, University of Delaware, *summa cum laude*: Full four-year merit scholarship, NOAA Hollings Scholar
 
-Currently an Environmental Consulting Associate at **Industrial Economics, Inc.**, supporting Natural Resource Damage Assessments at Superfund sites with spatial statistics, ArcGIS Pro, and machine learning.
+Currently a Research Scientist at [**CarbonPlan**](https://carbonplan.org), conducting climate science and impacts research. Previously an Environmental Consulting Associate at [**Industrial Economics, Inc.**](https://indecon.com) (2023 to 2026), supporting Natural Resource Damage Assessments at Superfund sites with spatial statistics, ArcGIS Pro, and machine learning.
 
 ## Featured projects
 
